@@ -11,9 +11,8 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | --- | --- |
 | [21](https://jobs.lever.co/21) | San Francisco, CA(✔️) |
 | [23andMe](https://www.23andme.com/careers/) | Mountain View, CA |
-| [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA |
-| [A9](http://www.a9.com/work-with-us/) | Palo Alto, CA |
-| [Academia](http://www.academia.edu/hiring) | San Francisco, CA |
+| [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA(✔️) |
+| [Academia](http://www.academia.edu/hiring) | San Francisco, CA(✔️) |
 | [Achievers](https://www.achievers.com/careers/jobs) | San Francisco, CA  |
 | [Acorns](https://www.acorns.com/careers) | Irvine, CA |
 | [Acquia](https://www.acquia.com/careers/open-positions) | Boston, MA; New Delhi, India; Portland, OR; Remote; Toronto, Canada |
